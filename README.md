@@ -1,0 +1,2 @@
+# PythonAssgn
+Technical training codes 
